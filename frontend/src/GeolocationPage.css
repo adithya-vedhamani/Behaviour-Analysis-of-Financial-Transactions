@@ -1,0 +1,19 @@
+/* src/GeolocationPage.css */
+.geolocation-page {
+    background-image: url("https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif");
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .map {
+    margin-top: 20px;
+  }
+  
+  .details {
+    margin-top: 20px;
+  }
+  
