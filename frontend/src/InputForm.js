@@ -30,8 +30,8 @@ const InputForm = () => {
   };
 
   const formStyle = {
-    width: '50%', // Adjust the width as needed
-    margin: 'auto', // Center the form
+    width: '50%', 
+    margin: 'auto', 
     marginTop: '50px',
     textAlign: 'center',
     padding: '20px',
@@ -50,7 +50,7 @@ const InputForm = () => {
   };
 
   const buttonStyle = {
-    width: '100%', // Make the button span the entire column
+    width: '100%', 
     backgroundColor: '#4CAF50',
     color: 'white',
     padding: '10px 15px',
