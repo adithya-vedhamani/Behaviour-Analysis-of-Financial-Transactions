@@ -120,8 +120,6 @@ def convert_to_compatible(input, target):
     update_user(input["merchant"], NOW, target["merch_lat"], target["merch_long"])
 
 
-  # Enable CORS for all routes
-
 model = pickle.load(open('NiceModel.sav', 'rb'))
 
 @app.route('/')
